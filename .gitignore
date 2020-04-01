@@ -59,6 +59,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+envs/
+venv/
+.env
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -162,3 +165,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/macos,python,windows
+.vscode/
